@@ -1,0 +1,6 @@
+State for BigCo
+Hamlet:650 (55 seats)
+As you like it:580 (35 seats)
+othello:500 (40 seats)
+Amount owed is 1730
+You earned 47 credits
